@@ -1,6 +1,6 @@
 # SQAD
 
-This is the implementation of the paper [SQAD: Spatial-Spectral Quasi-Attention Recurrent Network for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/abstract/document/9732909).
+This is the Pytorch implementation of the paper [SQAD: Spatial-Spectral Quasi-Attention Recurrent Network for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/abstract/document/9732909).
 
 ## Introduction
 
